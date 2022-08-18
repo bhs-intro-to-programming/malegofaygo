@@ -37,10 +37,12 @@
 
 drawLine(0, 0, width, height, 'red')
 
-drawCircle(width/2, height/2, 10, 'blue');
+drawCircle(width/2, height/2, 10, 'blue);
 
-drawRect(50, 50, 60, 40, 'black');
+drawRect(50, 50, 60, 40, 
 
 drawFilledCircle(width - 50, height - 50, 50, 'red');
 
-drawFilledRect(5, height - 20, 45, 15, 'purple');
+drawFilledRect(5, height - 20, 45, 15, );
+drawFilledREact(7, height -40, 45,l 15, green
+
