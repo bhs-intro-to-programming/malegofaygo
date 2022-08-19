@@ -35,9 +35,9 @@
  *
  */
 
-drawLine(30, 40, width, height, 'green')
+drawLine(30, 40, width, height, 'purple')
 
-drawCircle(width/2, height/2, 10, 'red');
+drawCircle(width/2, height/2, 10, 'purple');
 
 drawRect(50, 50, 60, 40, 'pink');
 
