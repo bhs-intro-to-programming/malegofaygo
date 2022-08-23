@@ -88,5 +88,10 @@
     "name": "Super beat?",
     "answer": "! enoughSleep && eatenenough",
     "correct": false
+  },
+  {
+    "name": "Super beat?",
+    "answer": "! enoughSleep && eatenEnough",
+    "correct": false
   }
 ]
