@@ -6,7 +6,7 @@
 // number of milliseconds (one millionth of a second) since the program started.
 const drawFrame = (time) => {
   clear();
-  drawFilledCircle((time / 3) % width, height / 2, 25, 'red');
+  drawFilledCircle((time / 3) % width, height / 2, 25, 'green');
   drawFallingTriangle(width / 3, time);
 };
 
