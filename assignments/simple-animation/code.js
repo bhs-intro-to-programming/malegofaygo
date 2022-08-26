@@ -28,7 +28,7 @@ const drawFallingTriangle = (x, time) => {
   let x3 = x + 50;
 
   // Figure out the y values as a function of time.
-  let y1 = (time / 4) % height; 
+  let y1 = (time / 1) % height; 
   let y3 = y1 - 13;
 
   // Actually draw the triangle.
