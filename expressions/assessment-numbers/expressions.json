@@ -166,5 +166,26 @@
     "answer": "x1 * x2",
     "correct": false,
     "timestamp": 1661898144853
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "x1 * x2",
+    "correct": false,
+    "timestamp": 1661898145069
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "x1 * x2",
+    "correct": false,
+    "timestamp": 1661898145221
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "x1 * x2",
+    "correct": false,
+    "timestamp": 1661898145365
   }
 ]
