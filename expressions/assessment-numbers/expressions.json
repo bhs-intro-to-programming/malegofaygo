@@ -33,5 +33,19 @@
     "answer": "a-b",
     "correct": false,
     "timestamp": 1661896838334
+  },
+  {
+    "name": "Product",
+    "canonical": "a * b",
+    "answer": "a-b",
+    "correct": false,
+    "timestamp": 1661896838541
+  },
+  {
+    "name": "Product",
+    "canonical": "a * b",
+    "answer": "a-b",
+    "correct": false,
+    "timestamp": 1661896838718
   }
 ]
