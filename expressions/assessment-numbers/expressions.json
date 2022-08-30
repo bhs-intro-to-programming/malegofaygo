@@ -124,5 +124,26 @@
     "answer": "y2-x2",
     "correct": false,
     "timestamp": 1661898069956
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "y2-x2",
+    "correct": false,
+    "timestamp": 1661898070115
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "y2-x2",
+    "correct": false,
+    "timestamp": 1661898070260
+  },
+  {
+    "name": "Manhattan distance",
+    "canonical": "Math.abs(x1 - x2) + Math.abs(y1 - y2)",
+    "answer": "x1 = x2",
+    "correct": false,
+    "timestamp": 1661898137821
   }
 ]
