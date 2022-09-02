@@ -35,6 +35,6 @@ const drawFallingTriangle = (x, time) => {
   drawTriangle(x1, y1, x2, y2, x3, y3, 'red', 3);};
 
 drawTriangle = (x1, y1, x2, y2, x3, y3, color, width=1) => {
-    drawLine(x1, y1, x2, y2, red, 12;
+    drawLine(x1, x2;
 ;
 }
