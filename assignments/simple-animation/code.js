@@ -34,8 +34,7 @@ const drawFallingTriangle = (x, time) => {
   // Actually draw the triangle.
   drawTriangle(x1, y1, x2, y2, x3, y3, 'red', 3);};
 
-
-const drawTriangle = (x1, y1, x2, y2, x3, y3, color, width=1) => {
+drawTriangle = (x1, y1, x2, y2, x3, y3, color, width=1) => {
     drawLine(x1, y1, x2, y2, red, 12;
 ;
 }
