@@ -5,5 +5,12 @@
     "answer": "a-b",
     "correct": false,
     "timestamp": 1662154657686
+  },
+  {
+    "name": "Average",
+    "canonical": "(a + b) / 2",
+    "answer": "a+b",
+    "correct": false,
+    "timestamp": 1662154664381
   }
 ]
