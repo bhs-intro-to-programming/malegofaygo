@@ -19,5 +19,12 @@
     "answer": "(x+10)",
     "correct": false,
     "timestamp": 1662501238323
+  },
+  {
+    "name": "Ten",
+    "canonical": "10",
+    "answer": "x*10",
+    "correct": false,
+    "timestamp": 1662501637881
   }
 ]
