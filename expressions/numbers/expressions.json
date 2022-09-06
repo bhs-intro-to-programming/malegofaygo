@@ -33,5 +33,12 @@
     "answer": "(a-b)+10",
     "correct": false,
     "timestamp": 1662501781732
+  },
+  {
+    "name": "Ten",
+    "canonical": "10",
+    "answer": "(ab)+10",
+    "correct": false,
+    "timestamp": 1662501786765
   }
 ]
