@@ -26,5 +26,12 @@
     "answer": "a / b",
     "correct": true,
     "timestamp": 1662759992639
+  },
+  {
+    "name": "Remainder",
+    "canonical": "a % b",
+    "answer": "a / b -1",
+    "correct": false,
+    "timestamp": 1662760071491
   }
 ]
