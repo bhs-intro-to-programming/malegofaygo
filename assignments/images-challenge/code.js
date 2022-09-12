@@ -26,4 +26,6 @@
 
 drawFilledCircle(150, 200, 100, 'red');
 
+drawFilledCircle(150, 250, 80, 'blue');
+
 
