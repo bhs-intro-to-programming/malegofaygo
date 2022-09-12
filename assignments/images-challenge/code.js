@@ -34,6 +34,6 @@ drawFilledCircle(150, 350, 40, 'pink');
 
 drawFilledCircle(150, 380, 20, 'green');
 
-drawFiledCircle (150, 410, 7, 'black');
+drawFiledCircle (150, 410, 12, 'black');
 
 
