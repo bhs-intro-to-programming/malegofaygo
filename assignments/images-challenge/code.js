@@ -30,9 +30,9 @@ drawFilledCircle(100, 250, 80, 'blue');
 
 drawFilledCircle(150, 300, 60, 'purple');
 
-drawFilledCircle(150, 350, 40, 'pink');
+drawFilledCircle(200, 350, 40, 'pink');
 
-drawFilledCircle(150, 380, 20, 'green');
+drawFilledCircle(250, 380, 20, 'green');
 
 
 
