@@ -36,7 +36,7 @@ drawFilledCircle(250, 390, 40, 'green');
 
 drawFilledCircle(300, 420, 30,'orange');
 
-drawfilledTriangle(300, 450, 20, 'green');
+drawfilledCircle(330, 450, 20, 'green');
 
 
 
