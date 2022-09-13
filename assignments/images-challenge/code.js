@@ -26,15 +26,7 @@
 
 drawFilledCircle(50, 200, 600, 'red');
 
-drawFilledCircle(100, 250, 70, 'blue');
 
-drawFilledCircle(150, 300, 60, 'purple');
-
-drawFilledCircle(200, 350, 50, 'pink');
-
-drawFilledCircle(250, 390, 40, 'green');
-
-drawFilledCircle(300, 420, 30,'orange');
 
 
 
