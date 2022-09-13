@@ -26,7 +26,7 @@
 
 drawFilledCircle(10, 50, 10, 'red');
 
-drawfilledCorcle (20, 70, 20, 'blue');
+drawfilledCircle (20, 70, 20, 'blue');
 
 
 
