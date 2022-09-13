@@ -24,7 +24,7 @@
  *  drawCircle (x1, y1, x2, y2, x3, y3, purple )
  */
 
-drawFilledCircle(50, 200, 80, 'red');
+drawFilledCircle(50, 200, 300, 'red');
 
 drawFilledCircle(100, 250, 70, 'blue');
 
@@ -36,7 +36,7 @@ drawFilledCircle(250, 390, 40, 'green');
 
 drawFilledCircle(300, 420, 30,'orange');
 
-drawfilledCircle(330, 450, 20, 'green');
+
 
 
 
