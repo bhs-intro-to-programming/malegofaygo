@@ -32,7 +32,7 @@ drawFilledCircle(100, 250, 60, 'purple');
 
 drawFilledCircle(100, 300, 40, 'green');
 
-drawFilledCircle(100, 350, 20, 'orange');
+drawFilledCircle(100, 350, 25, 'orange');
 
 
 
