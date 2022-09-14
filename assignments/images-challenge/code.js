@@ -46,7 +46,7 @@ drawFilledCircle(400, 350, 40, 'blue');
 
 drawFilledCircle(400, 400, 25, 'red');
 
-drawLine(x10, x25, y30, x40, 'red');
+drawLine(x10, x25, y30, x40, 45 'red');
 
 
 
