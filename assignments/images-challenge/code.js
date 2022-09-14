@@ -24,23 +24,23 @@
  *  drawCircle (x1, y1, x2, y2, x3, y3, purple )
  */
 
-drawFilledCircle(100, 150, 100, 'red');
+drawFilledCircle(100, 200, 100, 'red');
 
-drawFilledCircle(100, 200, 80, 'blue');
+drawFilledCircle(100, 250, 80, 'blue');
 
-drawFilledCircle(100, 250, 60, 'purple');
+drawFilledCircle(100, 300, 60, 'purple');
 
-drawFilledCircle(100, 300, 40, 'green');
+drawFilledCircle(100, 350, 40, 'green');
 
-drawFilledCircle(100, 350, 30, 'orange');
+drawFilledCircle(100, 400, 30, 'orange');
 
-drawFilledCircle(100, 400, 24, 'yellow');
+drawFilledCircle(100, 450, 24, 'yellow');
 
-drawFilledCircle(400, 150, 100, 'orange');
+drawFilledCircle(400, 500, 100, 'orange');
 
-drawFilledCircle(400, 200, 80, 'green');
+drawFilledCircle(400, 550, 80, 'green');
 
-drawFilledCircle(400, 250, 60, 'purple');
+drawFilledCircle(400, , 60, 'purple');
 
 drawFilledCircle(400, 300, 40, 'blue');
 
