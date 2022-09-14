@@ -36,6 +36,8 @@ drawFilledCircle(100, 350, 30, 'orange');
 
 drawFilledCircle(100, 400, 24, 'yellow');
 
+drawFilledCircle (400, 150, 100, 'yellow');
+
 
 
 
