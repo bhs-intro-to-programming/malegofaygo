@@ -57,7 +57,7 @@
 
 
 
-drawFilledCircle(width - 150, 170 - 50, 50, 'blue');
+drawFilledCircle(width - 180, 170 - 50, 50, 'blue');
 
 
 
