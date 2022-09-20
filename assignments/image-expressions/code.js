@@ -55,26 +55,11 @@
 // in a /* and then */ like the instruction above.)
 
 
-drawLine(100, 150, 20/5, 80, 'red');
 
-drawCircle(width / 2, 8 / 2, 10, 'blue'
-drawRect(50, 50, 150, 80, 'black');
 
-drawFilledCircle(width - 50, height - 50, 50, 'red');
+drawFilledCircle(width - 50, 30 - 150, 50, 'blue');
 
-drawFilledRect(5, height - 20, 45, 15, 'purple');
 
-drawTriangle(width * 0.25, 10, width * 0.75, 20, width * 0.5, 80, 'blue');
-
-// You can also put line breaks in if the line gets too long as shown
-drawFilledTriangle(
-  width * 0.25,
-  height - 10,
-  width * 0.75,
-  height - 20,
-  width * 0.5,
-  height - 80,
-  'blue')
 
 
   
