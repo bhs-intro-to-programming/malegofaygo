@@ -57,22 +57,14 @@
 
 
 
-drawFilledCircle(width - 220, 170 - 50, 50, 'blue');
+drawFilledCircle(width - 240, 300 - 50, 50, 'blue');
 
-drawFilledCircle(width - 220, 170 - 100, 10, 'red');
 
-drawFilledTriangle(width - 220, 170 - 150, 10, 'purple');
-
+drawFilledCircle(width - 270, 350,  50, 50, 'purple');
 
 
 
-
-
-
-
-
-
-
+drawFilledCircle(width - 270, 400, 50, 50, "red');
 
 
   
