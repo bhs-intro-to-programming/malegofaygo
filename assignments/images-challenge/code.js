@@ -38,16 +38,13 @@ drawFilledCircle(100, 400, 24, 'yellow');
 
 drawFilledCircle(400, 150, 100, 'orange');
 
-drawFilledCircle(400, 250, 80, 'green');
+drawFilledCircle(400, 200, 80, 'green');
 
-drawFilledCircle(400, 300, 60, 'purple');
+drawFilledCircle(400, 250, 60, 'purple');
 
-drawFilledCircle(400, 350, 40, 'blue');
+drawFilledCircle(400, 300, 40, 'blue');
 
-drawFilledCircle(400, 400, 25, 'red');
-
-
-
+drawFilledCircle(400, 350, 25, 'red');
 
 
 
