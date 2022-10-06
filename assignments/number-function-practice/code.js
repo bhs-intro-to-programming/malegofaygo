@@ -1,1 +1,1 @@
-const perimeter of square = (s) => s * 4;
+constperimeterOfquare = (s) => s * 4;
