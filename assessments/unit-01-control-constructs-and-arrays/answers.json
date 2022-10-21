@@ -10,5 +10,6 @@
   "The number of elements in the array x",
   "When Math.random() returns a number less that 0.01",
   "It tests whether limit and max are both prime numbers.",
-  "3"
+  "3",
+  "xs[-1]"
 ]
