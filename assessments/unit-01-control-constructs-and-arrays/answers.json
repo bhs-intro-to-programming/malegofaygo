@@ -12,5 +12,5 @@
   "It tests whether limit and max are both prime numbers.",
   "3",
   "xs[-1]",
-  "3"
+  "2"
 ]
