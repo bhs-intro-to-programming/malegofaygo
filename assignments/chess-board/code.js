@@ -16,5 +16,5 @@ drawText(WHITE_KING, width/25, height/20, 'BLACK', 45);
 
 drawText(BLACK_KING, width/30, height/25, 'WHITE', 55);
 
-drawText(White_KING, width/35, height/25, 'BLACK', 65);
+drawText(WHITE_KING, width/35, height/25, 'BLACK', 65);
  
