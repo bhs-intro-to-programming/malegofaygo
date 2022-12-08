@@ -5,5 +5,9 @@
   null,
   null,
   null,
-  "5"
+  "5",
+  null,
+  null,
+  null,
+  "It tests whether there are at most max prime numbers below limit."
 ]
